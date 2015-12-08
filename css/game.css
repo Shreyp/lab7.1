@@ -1,0 +1,29 @@
+.control{
+  text-align: center;
+  width: 100px;
+  background-color: lightblue;
+  color: white;
+  padding: 20px;
+  text-transform: uppercase;
+  font-family: sans-serif;
+  border-radius: 15px;
+  position: absolute;
+  left: 50%;
+  margin-left: -70px;
+  cursor: pointer;
+}
+.control:hover{
+  opacity: .7;
+}
+
+.container{
+  height: 100px;
+  position: relative;
+}
+table{
+  width: 100%;
+}
+td{
+  text-align: center;
+  width: 50%;
+}
